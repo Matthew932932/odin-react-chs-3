@@ -1,4 +1,7 @@
-# React + Vite
+# Odin React Chapters file 3
+
+Not Chapter three file three. Bits and pieces from code alongs 
+and exercises etc.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
